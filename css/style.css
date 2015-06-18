@@ -1,0 +1,32 @@
+.merah{
+	background:red;
+}
+
+.biru{
+	background:blue;
+}
+
+.hitam{
+	background:black;
+}
+
+.kotak{
+	height:200px;
+}
+
+.tulisanputih{
+	color:#FFF;
+}
+
+.warnafooter{
+	background:#CCC;
+}
+
+#footer{
+	margin-top:40px;
+	padding:10px 0;
+}
+
+.footerkotak{
+	height:100px;
+}
